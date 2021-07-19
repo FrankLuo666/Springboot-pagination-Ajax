@@ -1,0 +1,8 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Datasource local storage ignored files
+/../../../../../../../../../../:\2021黑马Java\JAVA在线就业班2.0笔记源码讲义\2.阶段二-JavaWeb\09.Ajax\AJAX\代码\代码\ajax03\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
